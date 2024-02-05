@@ -1,0 +1,7 @@
+// operadores comuns ( +, -, *, / )
+
+// % resto ou môdulo
+console.log(10%3);
+
+// ** elevado
+console.log(10**3)
